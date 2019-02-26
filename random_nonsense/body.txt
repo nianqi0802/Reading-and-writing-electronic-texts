@@ -1,0 +1,147 @@
+beard
+cheek
+chin
+head
+hair
+ear
+eye
+eyebrow
+eardrum
+earlobe
+eyelash
+forehead
+freckles
+jaw
+lip
+mouth
+nose
+nostril
+moustache	胡子
+tongue	舌头
+tooth	牙齿
+wrinkles	皱纹
+Adam's apple	喉结
+arm	胳膊
+armpit	腋窝
+back	背
+breast	胸
+chest	胸口
+elbow	肘
+hand	手
+finger	手指
+fingernail	指甲
+forearm	前臂
+knuckle	指关节
+navel	肚脐
+neck	脖子
+nipple	乳头
+palm	手掌
+shoulder	肩膀
+throat	喉咙
+thumb	拇指
+waist	腰
+wrist	手腕关节
+ankle	脚踝
+anus	肛门
+belly	肚子
+big toe	拇指
+bottom	屁股
+buttocks	臀部
+calf	小腿
+foot	脚
+genitals	生殖器
+groin	腹股沟
+heel	脚后跟
+hip	臀部
+knee	膝盖
+leg	脚
+penis	阴茎
+pubic hair	阴毛
+shin	胫骨
+sole	脚掌
+testicles	睾丸
+thigh	大腿
+toe	脚趾
+toenail	脚趾甲
+vagina	阴道
+cornea	角膜
+eye socket	眼窝
+eyeball	眼球
+iris	虹膜
+retina	视网膜
+pupil	瞳孔
+Achilles tendon	跟腱
+artery	动脉
+appendix	阑尾
+bladder	膀胱
+blood vessel	血管
+brain	大脑
+cartilage	软骨
+colon	结肠
+gall bladder	胆囊
+heart	心脏
+intestines	肠道
+large intestine	大肠
+small intestine	小肠
+kidneys	肾脏
+ligament	韧带
+liver	肝
+lungs	肺
+oesophagus	食道
+pancreas	胰腺
+organ	器官
+prostate gland	前列腺
+rectum	直肠
+spleen	脾
+stomach	胃
+tendon	腱
+tonsils	扁桃体
+vein	血管
+windpipe	气管
+womb	子宫
+collarbone	锁骨
+thigh bone	股骨
+humerus	肱骨
+kneecap	膝盖骨
+pelvis	骨盆
+rib	肋骨
+rib cage	胸腔
+skeleton	骨架
+skull	头盖骨
+spine	脊柱
+vertebra	椎骨
+bile	胆汁
+blood	血
+mucus	黏液
+phlegm	痰
+saliva	唾液
+semen	精液
+sweat	汗
+tears	眼泪
+urine	尿液
+vomit	呕吐物
+bone	骨头
+fat	肥胖
+flesh	肉体
+gland	腺
+joint	关节
+limb	肢
+muscle	肌肉
+nerve	神经
+skin	皮肤
+digestive system	消化系统
+nervous system	神经系统
+to breathe	呼吸
+to cry	哭
+to hiccup	打嗝
+to have the hiccups	打嗝
+to sneeze	打喷嚏
+to sweat	出汗
+to urinate	排尿
+to vomit	呕吐
+to yawn	打哈欠
+smell	嗅觉
+touch	触觉
+sight	视觉
+hearing	听觉
+taste	味觉
