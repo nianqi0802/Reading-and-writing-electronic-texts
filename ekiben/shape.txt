@@ -1,0 +1,21 @@
+powder
+balls
+slices
+Original shape
+Circles
+Equilateral Triangles
+Scalene Triangles
+Right Triangles
+Isoscles Triangles
+Parallelograms
+Rectangles
+Rhombus 
+Trapezoids
+Cubes
+Cylinders
+Hexagonal Prism
+Triangular-based Pyramids
+ellipses
+parabolas
+liquid
+bites
